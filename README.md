@@ -75,6 +75,19 @@ Employees database & Databases
   
     Data Validation
 
+**VBA Usage**
+    
+    This project include s small VBA procedure to improve using all table futures with protected Excel worksheets.
+
+    When worksheet is protected using TAB to add new row may not function correctly. This can prevent automatic formula          propagation.
+
+    The macro resolves this by:
+        - Temporarily unprotecting the sheet
+        - Adding a new row to the table
+        - Reapplying protection
+
+All business logic and calculations remain implemented using native Excel formulas to ensure transparency and maintainability. 
+
 **Screenshots**
   
   <img width="629" height="292" alt="Vacation tracker" src="https://github.com/user-attachments/assets/2ec55206-27c5-48b0-b611-31cd9b82d4d1" />
