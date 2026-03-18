@@ -1,6 +1,8 @@
 # excel-hr-vacation-tracker
 Excel based HR Leave Management &amp; Vacation Tracking System
 
+Download file here:   [HR_vacation_tracker.xlsm](https://github.com/user-attachments/files/26086443/HR_vacation_tracker.xlsm)
+
 **Key features**
 
     Automated working day vacation, sick day or personal day calculation
