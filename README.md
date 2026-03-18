@@ -96,7 +96,9 @@ Employees database & Databases
     Conditional Formatting
   
     Data Validation
+    
 ---
+
 **VBA Usage**
     
     This project include s small VBA procedure 
